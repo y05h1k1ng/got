@@ -1,0 +1,4 @@
+*
+# Unignore files except for binary files
+!*.*
+!*/
